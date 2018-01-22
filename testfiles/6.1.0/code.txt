@@ -1,1 +1,0 @@
-1. JMS Message store]Message store queue will not create automatically 2
