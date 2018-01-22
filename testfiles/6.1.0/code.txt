@@ -1,1 +1,2 @@
 1. Enterprise Integration Server and Tooling
+2. ClaimApprovalProcess sample failed due to connection refused error
