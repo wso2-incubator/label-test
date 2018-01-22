@@ -1,1 +1,2 @@
 1. Login to carbon console fails in multiple runtime environment issue completed
+2. Nice to have the startup logs in continuous manner
