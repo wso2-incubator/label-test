@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Bug Report
-    about: <!-- Please use this template while reporting a bug and provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner. Thanks!-->
-
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
