@@ -1,6 +1,6 @@
 ---
-name: "✅ Feature or Improvement request"
-about: If you need to suggest new functionality or saw a place we can improve.
+name: "✅ Feature Improvement request"
+about: If you need to suggest improvement to a feature.
 title: ''
 labels: Priority/Normal, Type/New Feature
 assignees: ''
