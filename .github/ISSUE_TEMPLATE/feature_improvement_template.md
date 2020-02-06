@@ -1,4 +1,14 @@
-<!-- Please only use this template for submitting feature improvement requests -->
+---
+name: "✅ Feature or Improvement request"
+about: If you need to suggest new functionality or saw a place we can improve.
+title: ''
+labels: Priority/Normal, Type/New Feature
+assignees: ''
+
+---
+
+
+Please only use this template for submitting feature improvement requests
 
 **What is the current limitation**
 
