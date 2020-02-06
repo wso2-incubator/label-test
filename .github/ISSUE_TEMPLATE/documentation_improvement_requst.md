@@ -1,5 +1,5 @@
 ---
-name: "✅ Documentation Improvement request"
+name: "\U0001F4DA Documentation Improvement request"
 about: If you need to suggest a place we can improve our documentation.
 title: ''
 labels: Priority/Normal, Type/New Feature
